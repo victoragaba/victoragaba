@@ -7,7 +7,7 @@ High performance computing for combinatiorial optimization using Julia.
 
 🌱 I’m currently learning:
 
-Advanced concepts in machine learning and data science, particularly in the context of nonlinear optimization and reinforcement learning.
+Advanced concepts in machine learning and data science, particularly in the context of nonlinear optimization and approximation algorithms.
 
 👯 I’m looking to collaborate on:
 
