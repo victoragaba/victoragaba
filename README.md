@@ -25,10 +25,6 @@ Email: victoragaba2025@u.northwestern.edu
 
 LinkedIn: linkedin.com/in/victor-agaba
 
-* 😄 Pronouns:
+* 😄 Pronouns: He/him
 
-He/him
-
-* ⚡ Fun fact:
-
-I published a motivational book in Uganda. It's called 'Another Way to Look at It'.
+* ⚡ Fun fact: I published a motivational book in Uganda. It's called 'Another Way to Look at It'.
