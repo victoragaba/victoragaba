@@ -17,13 +17,9 @@ Open-source contributions related to optimization, statistical modeling, or mach
 
 💬 Ask me about:
 
-Integrating linear algebra techniques in applied settings.
+Integrating linear algebra techniques in applied science and decision-making.
 
-📫 How to reach me:
-
-Email: victoragaba2025@u.northwestern.edu
-
-LinkedIn: linkedin.com/in/victor-agaba
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-agaba)
 
 😄 Pronouns: He/him
 
