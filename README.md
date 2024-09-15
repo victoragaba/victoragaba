@@ -1,4 +1,4 @@
-## Hi there, I'm Victor Agaba! 👋
+## Hi there, I'm Victor Agaba! 👋🏾
 Welcome to my GitHub profile! I'm currently pursuing a BS in Industrial Engineering and an MS in Computer Science at Northwestern University. My academic journey blends mathematics and computer science in areas of optimization and statistical modeling, with a passion for solving complex real-world problems.
 
 🔭 I’m currently working on:
