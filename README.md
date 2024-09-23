@@ -19,10 +19,10 @@ Open-source contributions related to optimization, statistical modeling, or mach
 
 Integrating linear algebra techniques in applied science and decision-making.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-agaba)
-
-😄 Pronouns: He/him
-
 ⚡ Fun fact:
 
 I published a motivational book in Uganda. It's called 'Another Way to Look at It'.
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-agaba)
+
+😄 Pronouns: He/him
