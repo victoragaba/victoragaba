@@ -23,4 +23,6 @@ Integrating linear algebra techniques in applied science and decision-making.
 
 😄 Pronouns: He/him
 
-⚡ Fun fact: I published a motivational book in Uganda. It's called 'Another Way to Look at It'.
+⚡ Fun fact:
+
+I published a motivational book in Uganda. It's called 'Another Way to Look at It'.
