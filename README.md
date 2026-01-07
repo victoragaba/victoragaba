@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm currently pursuing a BS in Industrial Engineer
 
 🔭 I’m currently working on:
 
-High performance computing for combinatiorial optimization using Julia.
+Single-seismometer focal mechanism inversion and uncertainty quantification.
 
 🌱 I’m currently learning:
 
@@ -11,9 +11,7 @@ Advanced concepts in machine learning and data science, particularly in the cont
 
 👯 I’m looking to collaborate on:
 
-Projects involving data-driven insights into human behavior, behavioral economics, or cognitive science.
-
-Open-source contributions related to optimization, statistical modeling, or machine learning.
+Open-source optimization, statistical modeling, inverse methods or machine learning.
 
 💬 Ask me about:
 
@@ -24,5 +22,3 @@ Integrating linear algebra techniques in applied science and decision-making.
 I published a motivational book in Uganda. It's called 'Another Way to Look at It'.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-agaba)
-
-😄 Pronouns: He/him
